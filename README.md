@@ -1,2 +1,2 @@
-# Laberinto-
-con backtracking
+# biblioteca
+ordenar o no ordenar
